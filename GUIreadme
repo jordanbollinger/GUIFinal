@@ -1,0 +1,6 @@
+How to use my GUI:
+click "run"
+type in desired pace per mile or per kilometer in "m:ss" or "mm:ss" format
+click button correlated to whichever units desired (even if it's in min/mile, the button still needs to be clicked even though it is clicked automatically)
+select from dropdown menu the desired distance (even if desired distance is 1 mile and it's automatically shown as selected, it still has to be clicked)
+your result will pop up in a message box in "mm:ss" format
